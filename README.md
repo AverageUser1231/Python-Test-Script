@@ -14,10 +14,17 @@ Make sure to check the box that says **“Add Python to PATH”** when installin
 
 ## 🚀 How to Run It
 
-1. Download or clone this repo.
-2. Open your terminal or command prompt.
-3. Navigate to the folder where the script is (`say_hi.py`).
-4. Run this command:
+1. Download or clone this repo. *(I recommend saving it to your Desktop.)*
+2. Double-click the `say_hi.py` file to run it!
 
-```bash
-python say_hi.py
+That’s it! A small window will pop up with a button — click it, and you'll see **Hi!** in the terminal or command prompt.
+
+## 🧠 What It Uses
+
+This app uses the built-in **Tkinter** library that comes with Python.  
+No extra installs needed!
+
+## 🛠️ Made by a 13-year-old coder
+
+Just learning and having fun 💻🎉  
+Feel free to fork, remix, or improve it!
